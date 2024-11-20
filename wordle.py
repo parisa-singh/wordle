@@ -1,7 +1,3 @@
-# Author: Parisa Singh
-# Email: parisasingh@umass.edu
-# Spire ID: 34751702
-
 import random
 # part a
 def get_guess(): 
